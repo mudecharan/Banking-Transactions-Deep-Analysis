@@ -1,0 +1,25 @@
+KPI,Value
+Total Customers,"60,000"
+Total Accounts,"95,000"
+Total Cards,"65,000"
+Total Loans,"22,000"
+Total Branches,150
+Total Transactions,"2,000,000"
+Total Card Txns,"3,000,000"
+Txn Volume,₹1209.7Cr
+Loan Book,₹921.5Cr
+Deposits Balance,₹434.7Cr
+Avg Credit Score,599.70
+Avg Customer Age,49.21 yrs
+Fraud Count,"14,954"
+Fraud Rate,0.4985%
+Fraud Amount,₹2.7Cr
+NPA Count,"2,221"
+NPA Rate,10.10%
+Late Payment Rate,12.01%
+Avg Resolution Days,9.49
+Avg Satisfaction,3.00 / 5
+Avg Interest Rate,11.51%
+Avg Loan Amount,₹4.2L
+Dormant Accounts,"9,526"
+Expired Cards,"42,429"
