@@ -23,10 +23,10 @@ A full-stack retail-banking analytics project covering 10 tables and ~5.8 millio
 Banking analysis/
 ├── Baning.ipynb                      # Canonical narrative notebook
 ├── Data/                             # Raw CSVs (10 tables)
+├── PowerBi/Data_Analysis_PowerBi.pbit# Powerbi dashboard
 ├── charts/                           # 39 PNG visualizations
+├── dax/Banking.txt                   # Dax added columns and measures
 ├── sql/Banking Analysis.sql          # SQL analytics queries
-├── excel/                            # Excel workbook
-├── PowerBi/Data_Analysis_PowerBi.pbix
 ├── kpi/json/                         # Headline KPIs
 └── README.md
 ```
@@ -48,7 +48,7 @@ Python (NumPy, pandas, Matplotlib, Seaborn, SciPy), SQL, DAX, Power BI, Excel, J
 
 1. Clone the repo and place Kaggle dataset under `Data/`.
 2. Open `Baning.ipynb` in Jupyter and run all cells.
-3. Open `PowerBi/Data_Analysis_PowerBi.pbix` in Power BI Desktop.
+3. Open `PowerBi/Data_Analysis_PowerBi 01.pdf` in Power BI Desktop.
 
 ## Resume Bullet Points
 
